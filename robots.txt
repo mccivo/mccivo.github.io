@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mccivo.github.io/gaI/sitemap.gaI.gz
